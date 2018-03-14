@@ -1,0 +1,14 @@
+{
+  "name": "blockchain",
+  "version": "0.1.0",
+  "description": "",
+  "main": "block.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pawel Rusek <rusekpawel1@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cryptojs": "^2.5.3"
+  }
+}
